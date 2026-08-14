@@ -7,3 +7,7 @@ I am a current MSc student at the University of Edinburgh studying Quantum Error
 email (academic): L.Moyano-Taylor@sms.ed.ac.uk
 
 email (committee enquiries): larasmt04@gmail.com
+
+linkedin: https://www.linkedin.com/in/lara-moyano-taylor 
+
+github: https://github.com/laramoyanotaylor
