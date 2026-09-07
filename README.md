@@ -137,7 +137,7 @@
 
       <img
         class="portrait"
-        src="photo.jpg"
+        src="1000095109_1.jpg"
         alt="Portrait of Lara Moyano Taylor"
       >
     </header>
